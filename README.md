@@ -10,6 +10,7 @@
 
 <h5 align="center">:heavy_check_mark: Status do Projeto: Concluído :heavy_check_mark:</h5>
 
-## SUMÁRIO
-## AUTOR
-## LICENÇA
+## :mag_right: ÍNDICE
+## :hammer_and_wrench: DESENVOLVIDO COM
+## :nerd_face: AUTOR
+## :memo: LICENÇA
